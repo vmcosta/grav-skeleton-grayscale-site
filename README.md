@@ -1,6 +1,6 @@
 # Grayscale Theme for Grav
 
-![Grayscale](assets/grayscale.png?raw=true)
+![Grayscale](assets/grayscale.png?raw=true) 
 
 This Grav theme is a port of the [Grayscale theme] by [Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
 
