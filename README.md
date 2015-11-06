@@ -16,7 +16,7 @@ This Grav skeleton is based around the [Grayscale Grav theme](https://github.com
 
 ## Basic Setup for a new Grav site
 
-The simplest way to install Grayscale theme for Grav is to download and install the Agency Skeleton package:
+The simplest way to install Grayscale theme for Grav is to download and install the Grayscale Skeleton package:
 
 1. [Download Grayscale Skeleton](https://github.com/vmcosta/grav-skeleton-grayscale-site/releases/download/1.0.0/grav-skeleton-grayscale-site-v1.0.0.zip)
 2. Simply unzip the package into your web root folder.
