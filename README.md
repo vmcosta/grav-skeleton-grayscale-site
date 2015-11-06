@@ -33,7 +33,7 @@ It is possible to install just the theme, but page content will need to referenc
 To install  **just** the theme:
 
 ```
-$ bin/gpm install agency
+$ bin/gpm install grayscale
 ```
 
 
