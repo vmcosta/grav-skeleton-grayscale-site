@@ -5,9 +5,9 @@ icon: group
 author:
   name: Vitor Costa
   email: vmcosta@me.com
-  url: http://vmcosta.net
+  url: https://vmcosta.net
 homepage: https://github.com/vmcosta/grav-skeleton-grayscale-site
-demo: http://demo.vmcosta.net/grayscale-skeleton
+demo: https://demo.vmcosta.net/grayscale-skeleton
 keywords: grayscale, skeleton, scroll, single, page, modular
 bugs: https://github.com/vmcosta/grav-skeleton-grayscale-site/issues
 license: MIT
