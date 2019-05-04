@@ -2,8 +2,6 @@
 .sass-cache
 
 # Grav Specific
-#accounts/*
-#!accounts/.*
 data/*
 !data/.*
 plugins/*
