@@ -27,7 +27,7 @@ home:
   hide_in_urls: false                            # Hide the home route in URLs
 
 pages:
-  theme: grayscale                               # Default theme (defaults to "quark" theme)
+  theme: grayscale                               # Default theme (defaults to "grayscale" theme for this skeleton)
   order:
     by: default                                  # Order pages by "default", "alpha" or "date"
     dir: asc                                     # Default ordering direction, "asc" or "desc"
