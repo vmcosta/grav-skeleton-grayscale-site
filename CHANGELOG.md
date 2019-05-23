@@ -1,4 +1,4 @@
-# v1.0.0a
+# v1.0.2
 ## 04/05/2019
 
 1. Upadting for Grav version 1.6.9
