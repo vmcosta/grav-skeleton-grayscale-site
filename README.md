@@ -2,7 +2,7 @@
 
 ![Grayscale](assets/grayscale.png?raw=true) 
 
-This Grav skeleton is based around the [Grayscale Grav theme](https://github.com/vmcosta/grav-theme-grayscale) which in turn, is a port of the [Grayscale theme] by [Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+This Grav skeleton is based around the [Grayscale Grav theme](https://github.com/vmcosta/grav-theme-grayscale) which in turn, is a port of the [Grayscale theme] by [Start Bootstrap](https://startbootstrap.com/template-overviews/grayscale/).
 
 # Features
 
@@ -22,7 +22,7 @@ The simplest way to install Grayscale theme for Grav is to download and install 
 2. Simply unzip the package into your web root folder.
 3. Point your browser at the folder, job done!
 
-**TIP:** Check out the [general Grav installation instructions](http://learn.getgrav.org/basics/installation) for more details on this process.
+**TIP:** Check out the [general Grav installation instructions](https://learn.getgrav.org/basics/installation) for more details on this process.
 
 ---
 

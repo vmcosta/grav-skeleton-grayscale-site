@@ -1,6 +1,6 @@
 ---
 title: Download
-button_url: http://startbootstrap.com/template-overviews/grayscale/
+button_url: https://startbootstrap.com/template-overviews/grayscale/
 button_text: Visit Download Page
 ---
 
