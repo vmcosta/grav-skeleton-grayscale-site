@@ -1,0 +1,10 @@
+git:
+    gateway:
+        url: https://github.com/vmcosta/grav-theme-grayscale
+        path: user/themes/grayscale
+        branch: master
+links:
+    gateway:
+        src: grav-theme-grayscale
+        path: user/themes/grayscale
+        scm: github
